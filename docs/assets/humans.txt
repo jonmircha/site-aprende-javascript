@@ -1,0 +1,7 @@
+/* Aprende JavaScript - https://aprendejavascript.org */
+
+/* TEAM */
+Design & Develop: Jonathan MirCha
+Contact: hola [at] jonmircha.com
+Twitter: @jonmircha
+Location: CDMX, México

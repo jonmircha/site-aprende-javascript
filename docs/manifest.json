@@ -1,0 +1,20 @@
+{
+  "name": "Aprende JavaScript",
+  "short_name": "Aprende JS",
+  "description": "Aprende JavaScript, el lenguaje de la Web. De cero a experto con videos GRATIS y una metodología que combina de forma efectiva teoría y práctica.",
+  "background_color": "#f0db4f",
+  "theme_color": "#f0db4f",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
